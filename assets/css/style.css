@@ -551,12 +551,12 @@ footer .input-group span.input-group-addon {
 	color: #ffffff;
 }
 
-.footer-links li a:before {
+/* .footer-links li a:before {
 	color: #fff;
 	font-family: 'FontAwesome';
 	content: "\f101";
 	margin-right: 10px;
-}
+} */
 
 .footer-news {
 	margin-bottom: 35px;
@@ -1882,18 +1882,3 @@ Tags: responsive layout, multiple-page
 
 
 
-
-/**************************
-
-
-
-MY STYLES 
-
-
-
-
-****************************/
-
-button-left{
-    margin-right: 15px;
-}
